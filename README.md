@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kncmap-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="kncmap-technologies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kncmap-technologies" alt="kncmap-technologies" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kncmap" target="blank"><img src="https://img.shields.io/twitter/follow/kncmap?logo=twitter&style=for-the-badge" alt="kncmap" /></a> </p>
 
 - 🔭 We’re currently working on **Developing Next-Generation Data Recovery Tools**
@@ -25,7 +23,7 @@
 <p align="left">
   <a href="https://twitter.com/kncmap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kncmap" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/company/kncmap-technologies/posts/?feedview=all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kncmap-technologies" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/kncmaptechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kncmap-technologies" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61553384345581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charles-ndungu" height="30" width="40" /></a>
   <a href="https://www.instagram.com/kncmap_technologies/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kncmap_technologies" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@kncmap-technologies_company" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kncmap-technologies" height="30" width="40" /></a>
 </p>
@@ -84,8 +82,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kncmap-technologies&show_icons=true&locale=en&layout=compact" alt="kncmap-technologies" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charles-13&show_icons=true&locale=en&layout=compact" alt="charles-13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kncmap-technologies&show_icons=true&locale=en" alt="kncmap-technologies" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charles-13&show_icons=true&locale=en" alt="charles-13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kncmap-technologies&" alt="kncmap-technologies" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charles-13&" alt="charles-13" /></p>
